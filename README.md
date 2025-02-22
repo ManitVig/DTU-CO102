@@ -72,3 +72,7 @@
 69.	C Program to Read the First Line From a File
 70.	C Program to Display its own Source Code as Output
 71.	C Program to Print Pyramids and Patterns
+
+
+#### For Assignment 1
+Program no. 7,9,11,13,18,21,22,27,38,46
